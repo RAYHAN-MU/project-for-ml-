@@ -1,1 +1,2 @@
-# project-for-ml-
+The National Health and Nutrition Examination Survey (NHANES), administered by the Centers for Disease Control and Prevention (CDC), collects extensive health and nutritional information from a diverse U.S. population. While the dataset is broad, this sub-dataset focuses on predicting respondents' age by leveraging a subset of features from the larger NHANES dataset. The selected features include physiological measurements, lifestyle choices, and biochemical markers, hypothesized to correlate strongly with age.
+
